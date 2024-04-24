@@ -1,2 +1,2 @@
 # Construction
-Construction Dashboard
+This folder contains all the Construction Dashboard scripts and Dashboard source files
